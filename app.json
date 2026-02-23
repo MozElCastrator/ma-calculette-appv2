@@ -12,7 +12,11 @@
       "backgroundColor": "#1e1e2f"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ng32036.macalculatrice"
     },
     "android": {
       "adaptiveIcon": {
