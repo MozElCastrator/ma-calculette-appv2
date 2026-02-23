@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Ma Calculatrice",
+    "slug": "ma-calculatrice",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1e1e2f"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1e1e2f"
+      },
+      "package": "com.votre_mozelcastrator.macalculatrice"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
