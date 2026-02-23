@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Ma Calculatrice",
-    "slug": "ma-calculatrice",
+    "name": "Calculatrice",
+    "slug": "calculatrice",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
